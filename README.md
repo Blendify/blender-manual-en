@@ -1,1 +1,0 @@
-# blender-manual-en
